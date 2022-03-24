@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/snake-ladder/static/css/main.7c41e836.css",
-    "main.js": "/snake-ladder/static/js/main.4c28ddc6.js",
+    "main.js": "/snake-ladder/static/js/main.f653316d.js",
     "static/js/377.c1855308.chunk.js": "/snake-ladder/static/js/377.c1855308.chunk.js",
     "static/media/Ladder.svg.png": "/snake-ladder/static/media/Ladder.svg.19416eac8ef9edbdfaeb.png",
     "static/media/6.mpeg": "/snake-ladder/static/media/6.d26c719c71256a99bcad.mpeg",
@@ -12,11 +12,11 @@
     "static/media/479818-Toppling_The_King_09.mp3": "/snake-ladder/static/media/479818-Toppling_The_King_09.907ded724c76ac71c28a.mp3",
     "index.html": "/snake-ladder/index.html",
     "main.7c41e836.css.map": "/snake-ladder/static/css/main.7c41e836.css.map",
-    "main.4c28ddc6.js.map": "/snake-ladder/static/js/main.4c28ddc6.js.map",
+    "main.f653316d.js.map": "/snake-ladder/static/js/main.f653316d.js.map",
     "377.c1855308.chunk.js.map": "/snake-ladder/static/js/377.c1855308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c41e836.css",
-    "static/js/main.4c28ddc6.js"
+    "static/js/main.f653316d.js"
   ]
 }
