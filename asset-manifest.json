@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/snake-ladder/static/css/main.7c41e836.css",
-    "main.js": "/snake-ladder/static/js/main.a0134030.js",
-    "static/js/377.c1855308.chunk.js": "/snake-ladder/static/js/377.c1855308.chunk.js",
-    "static/media/Ladder.svg.png": "/snake-ladder/static/media/Ladder.svg.19416eac8ef9edbdfaeb.png",
-    "index.html": "/snake-ladder/index.html",
-    "main.7c41e836.css.map": "/snake-ladder/static/css/main.7c41e836.css.map",
-    "main.a0134030.js.map": "/snake-ladder/static/js/main.a0134030.js.map",
-    "377.c1855308.chunk.js.map": "/snake-ladder/static/js/377.c1855308.chunk.js.map"
+    "main.css": "/kirithiv2000/snake-ladder-Updated-version/static/css/main.7c41e836.css",
+    "main.js": "/kirithiv2000/snake-ladder-Updated-version/static/js/main.babb0135.js",
+    "static/js/377.c1855308.chunk.js": "/kirithiv2000/snake-ladder-Updated-version/static/js/377.c1855308.chunk.js",
+    "static/media/Ladder.svg.png": "/kirithiv2000/snake-ladder-Updated-version/static/media/Ladder.svg.19416eac8ef9edbdfaeb.png",
+    "static/media/6.mpeg": "/kirithiv2000/snake-ladder-Updated-version/static/media/6.d26c719c71256a99bcad.mpeg",
+    "static/media/5.mpeg": "/kirithiv2000/snake-ladder-Updated-version/static/media/5.a671f95f5a1773fb266d.mpeg",
+    "static/media/4.mpeg": "/kirithiv2000/snake-ladder-Updated-version/static/media/4.f4ecfc8dcca9246b7823.mpeg",
+    "static/media/3.mpeg": "/kirithiv2000/snake-ladder-Updated-version/static/media/3.97937ed4303666b82bf3.mpeg",
+    "static/media/2.mpeg": "/kirithiv2000/snake-ladder-Updated-version/static/media/2.d9be6a08bed15b0ddbfc.mpeg",
+    "static/media/479818-Toppling_The_King_09.mp3": "/kirithiv2000/snake-ladder-Updated-version/static/media/479818-Toppling_The_King_09.907ded724c76ac71c28a.mp3",
+    "index.html": "/kirithiv2000/snake-ladder-Updated-version/index.html",
+    "main.7c41e836.css.map": "/kirithiv2000/snake-ladder-Updated-version/static/css/main.7c41e836.css.map",
+    "main.babb0135.js.map": "/kirithiv2000/snake-ladder-Updated-version/static/js/main.babb0135.js.map",
+    "377.c1855308.chunk.js.map": "/kirithiv2000/snake-ladder-Updated-version/static/js/377.c1855308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c41e836.css",
-    "static/js/main.a0134030.js"
+    "static/js/main.babb0135.js"
   ]
 }
